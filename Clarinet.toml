@@ -5,8 +5,8 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.practise]
-path = 'contracts/practise.clar'
+[contracts.stream]
+path = 'contracts/stream.clar'
 clarity_version = 3
 epoch = 'latest'
 [repl.analysis]
